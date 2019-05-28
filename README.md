@@ -1,7 +1,7 @@
-# HalfLajf
+# HalfLajf </br>
 Blog page: https://halflajf.github.io/HalfLajf/
-#What is HalfLajf?
-Halflajf is an app coded using React.js , we create it just to learn something and to share with you quite simple and easy to run meme site
+#What is HalfLajf?<br>
+Halflajf is an app coded using React.js , we create it just to learn something and to share with you quite simple and easy to run meme site <br>
 #How to build our project? 
 To build our project locally you need to 
  1. Clone or download our repository https://github.com/halflajf/HalfLajf
